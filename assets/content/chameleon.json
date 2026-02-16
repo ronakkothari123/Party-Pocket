@@ -1,0 +1,17 @@
+[
+  {"category": "Fruits", "words": ["Apple", "Banana", "Cherry", "Grape", "Mango", "Orange", "Peach", "Pear", "Strawberry", "Watermelon"]},
+  {"category": "Animals", "words": ["Cat", "Dog", "Elephant", "Giraffe", "Horse", "Lion", "Monkey", "Panda", "Rabbit", "Tiger"]},
+  {"category": "Colors", "words": ["Red", "Blue", "Green", "Yellow", "Purple", "Orange", "Pink", "Black", "White", "Brown"]},
+  {"category": "Sports", "words": ["Soccer", "Basketball", "Tennis", "Swimming", "Baseball", "Volleyball", "Hockey", "Golf", "Rugby", "Boxing"]},
+  {"category": "Countries", "words": ["Japan", "France", "Brazil", "Canada", "Italy", "India", "Mexico", "Egypt", "Australia", "Germany"]},
+  {"category": "Desserts", "words": ["Cake", "Cookie", "Brownie", "Donut", "Muffin", "Pie", "Pudding", "Cupcake", "Cheesecake", "Macaron"]},
+  {"category": "Musical Instruments", "words": ["Guitar", "Piano", "Drums", "Violin", "Flute", "Trumpet", "Saxophone", "Cello", "Harp", "Ukulele"]},
+  {"category": "Superheroes", "words": ["Batman", "Superman", "Spiderman", "Ironman", "Hulk", "Thor", "Aquaman", "Flash", "Deadpool", "Wolverine"]},
+  {"category": "Vehicles", "words": ["Car", "Bus", "Bicycle", "Motorcycle", "Truck", "Train", "Airplane", "Helicopter", "Boat", "Submarine"]},
+  {"category": "Weather", "words": ["Rain", "Snow", "Sun", "Wind", "Thunder", "Hail", "Fog", "Tornado", "Hurricane", "Drizzle"]},
+  {"category": "School Subjects", "words": ["Math", "Science", "English", "History", "Art", "Music", "Geography", "Biology", "Chemistry", "Physics"]},
+  {"category": "Pizza Toppings", "words": ["Pepperoni", "Mushroom", "Olive", "Onion", "Pepper", "Sausage", "Pineapple", "Ham", "Bacon", "Tomato"]},
+  {"category": "Emotions", "words": ["Happy", "Sad", "Angry", "Scared", "Excited", "Nervous", "Surprised", "Bored", "Confused", "Proud"]},
+  {"category": "Breakfast Foods", "words": ["Pancake", "Waffle", "Cereal", "Toast", "Egg", "Bacon", "Oatmeal", "Bagel", "Muffin", "Yogurt"]},
+  {"category": "Ocean Creatures", "words": ["Shark", "Whale", "Dolphin", "Octopus", "Jellyfish", "Seahorse", "Starfish", "Crab", "Lobster", "Turtle"]}
+]
